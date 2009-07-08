@@ -1,0 +1,66 @@
+<html>
+<!-- #BeginTemplate "/Templates/Indice de Libro.dwt" --> 
+<head>
+<LINK REL="SHORTCUT ICON"
+HREF="index.ICO"> 
+<!-- #BeginEditable "doctitle" --> 
+<title>I N D E X &nbsp;de&nbsp; L I B R O S &nbsp;P R O H I B I D O S &nbsp;para 
+&nbsp;A L G U N O S</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+
+
+
+
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+//-->
+</script>
+<link rel="stylesheet" href="index.css" type="text/css">
+</head>
+<body bgcolor="#000000" text="#FFFFFF">
+<div id="Title" style="position:absolute; left:4; top:9; width:542px; height:52px; z-index:5" class="toptitle"><!-- #BeginEditable "Title" --> 
+  <p align="center"><img src="index.gif" width="226" height="45"></p>
+  <p align="center"><img src="delibros.gif" width="390" height="136"></p>
+  <!-- #EndEditable --></div>
+<div id="Layer1" style="position:absolute; left:0; top:135; width:412px; height:317px; z-index:6" class="toptitle"> 
+  <!-- #BeginEditable "Contents" --> 
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p><a href="luna/aniv.html"><img src="anivicon.jpg" width="347" height="64" border="0"></a></p>
+  <p align="right">14 de Octubre de 2001</p>
+  <p>Comentarios en&nbsp;<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="28" height="24" hspace="0">
+      <param name=movie value="mail.swf">
+      <param name=quality value=high><param name="BGCOLOR" value="#000000">
+      <embed src="mail.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="28" height="24" hspace="0" bgcolor="#000000">
+      </embed> 
+    </object>.</p>
+  <p><font size="3">P&aacute;gina de poes&iacute;a y otras cosas.</font></p>
+  <p>P&aacute;gina y vida enteramente dedicada a mi Gaby. A ella pertenecen ambas.</p>
+  <p>Se puede llegar a las secciones de poemas a trav&eacute;s del men&uacute; 
+    de la izquierda... excepto a <a href="2let.html">&quot;las dos cartas&quot;</a>, 
+    que a&uacute;n no tiene &iacute;cono.</p>
+  <table width="77%" border="0" cellspacing="0" cellpadding="10">
+    <tr> 
+      <td width="95%" height="40"> 
+        <div align="center"><a href="2let.html"><img src="2let.gif" width="279" height="50" border="0"></a></div>
+      </td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <p align="right"><img src="elpuma.gif" width="190" height="94"></p>
+  <!-- #EndEditable --> 
+  <p>&nbsp;</p>
+</div>
+</body>
+<!-- #EndTemplate -->
+</html>

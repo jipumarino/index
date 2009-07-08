@@ -1,0 +1,8 @@
+AuthUserFile /afs/ing.puc.cl/users/docen/jipumari/.htpasswd
+AuthGroupFile /dev/null
+AuthName jipumari
+AuthType Basic
+
+<Limit GET>
+require user jipumari
+</Limit> 
